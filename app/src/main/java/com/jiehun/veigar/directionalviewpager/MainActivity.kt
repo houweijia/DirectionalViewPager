@@ -19,7 +19,7 @@ internal class MainActivity : AppCompatActivity() {
         var button: Button = Button(1, "button")
 
         //var tv = findViewById<TextView>(R.id.tv)
-        tv.text = "你好"
+        tv.text = "你好111"
         draw()
 
         var button1 = null
