@@ -14,7 +14,7 @@ internal class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-        sum(1, 2)
+        sum(1, 3)
         main()
         var button: Button = Button(1, "button")
 
