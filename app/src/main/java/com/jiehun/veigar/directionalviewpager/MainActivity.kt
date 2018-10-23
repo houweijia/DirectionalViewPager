@@ -19,8 +19,8 @@ internal class MainActivity : AppCompatActivity() {
         var button: Button = Button(1, "button")
 
         //var tv = findViewById<TextView>(R.id.tv)
-        tv.text = "你好111"
         draw()
+        tv.text = "你好111"
 
         var button1 = null
         button1.eat()
